@@ -1,0 +1,16 @@
+{
+    "contacts" : [
+        {
+            id: 1,
+            firstname: "John",
+            lastname: "Doe",
+            address: "4 rue du paquier 74000 Annecy"
+        },
+        {
+            id: 2,
+            firstname: "Sarah",
+            lastname: "Connor",
+            address: "3 rue du paquier 74000 Annecy"
+        }
+    ]
+}
